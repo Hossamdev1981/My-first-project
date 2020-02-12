@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\c-review\bin\Debug\netcoreapp3.1\c-review.exe
+C:\Users\student\Desktop\c-review\bin\Debug\netcoreapp3.1\c-review.deps.json
+C:\Users\student\Desktop\c-review\bin\Debug\netcoreapp3.1\c-review.runtimeconfig.json
+C:\Users\student\Desktop\c-review\bin\Debug\netcoreapp3.1\c-review.runtimeconfig.dev.json
+C:\Users\student\Desktop\c-review\bin\Debug\netcoreapp3.1\c-review.dll
+C:\Users\student\Desktop\c-review\bin\Debug\netcoreapp3.1\c-review.pdb
+C:\Users\student\Desktop\c-review\obj\Debug\netcoreapp3.1\c-review.csprojAssemblyReference.cache
+C:\Users\student\Desktop\c-review\obj\Debug\netcoreapp3.1\c-review.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\c-review\obj\Debug\netcoreapp3.1\c-review.AssemblyInfo.cs
+C:\Users\student\Desktop\c-review\obj\Debug\netcoreapp3.1\c-review.dll
+C:\Users\student\Desktop\c-review\obj\Debug\netcoreapp3.1\c-review.pdb
