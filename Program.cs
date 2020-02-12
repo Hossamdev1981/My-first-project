@@ -47,6 +47,11 @@ foreach (int e in myarray)
 
 
 }
+Console.WriteLine("please enter your name");
+string myname = Console.ReadLine();
+Console.WriteLine("Thank you, "+myname+"!");
+
+
 
 
 int a = 3;
