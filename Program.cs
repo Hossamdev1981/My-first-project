@@ -31,12 +31,20 @@ namespace c_review
 {
                  Console.WriteLine("Array Index"+i+" | Array Value:"+ myarray[i] );
 }     
-int y=0;
+int h=0;
 
-while (y<5)
+while (h<5)
 {
- Console.WriteLine("Array Index"+y+" | Array Value:"+ myarray[y] );
-y++;
+ Console.WriteLine("Array Index"+h+" | Array Value:"+ myarray[h] );
+h +=2;
+
+}
+
+foreach (int e in myarray)
+{
+
+    Console.WriteLine("current foreach value is:"+e );
+
 
 }
 
